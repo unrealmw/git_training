@@ -79,8 +79,10 @@ hello, world!
 
 $ git add .
 $ git commit -m "solve conflict"
+$ git push git@github.com:unrealmw/git_training.git
 
 16. Commit and push a separate text file with a list of all the commands, which were used to solve the problem;
 
 $ git add .
 $ git commit -m "added HW file"
+$ git push git@github.com:unrealmw/git_training.git
